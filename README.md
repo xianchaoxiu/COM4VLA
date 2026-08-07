@@ -45,7 +45,7 @@ I currently focus on compression methods for Vision-Language-Action models, incl
 - [2026.06] Fast Enough to Act: Spatio-Temporal Visual Token Merging for Low-Latency Robotic VLMs and VLAs, arXiv [[Paper](https://arxiv.org/abs/2606.29350)]
 - [2026.07] NativeMEM: Native Memory Compression for Long-Horizon Robotic Manipulation, arXiv [[Paper](https://arxiv.org/abs/2607.06678)]
 
-### Visual Token Caching and Reuse
+### Visual Token Caching 
 
 - [2025.02] VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching, NeurIPS 2025 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f062da1973ac9ac61fc6d44dd7fa309f-Abstract-Conference.html)] [[Code](https://vla-cache.github.io)]
 - [2025.09] RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models, ICRA 2026 [[Paper](https://arxiv.org/abs/2509.21243)] [[Code](https://youtu.be/2CseBR-snZg)]
