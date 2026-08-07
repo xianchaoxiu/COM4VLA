@@ -17,15 +17,9 @@ I currently focus on compression methods for Vision-Language-Action models, incl
 <a name="Surveys" />
 
 ## Surveys
-
-### Efficient / Resource-Constrained VLA Surveys
-
 - [2026] A survey of vision-language-action (VLA) models for resource-constrained embodied intelligence, Acta Automatica Sinica
 - [2025.10] Efficient vision-language-action models for embodied manipulation: A systematic survey, arXiv [[Paper](https://arxiv.org/abs/2510.17111)]
 - [2025.10] A survey on efficient vision-language-action models, arXiv [[Paper](https://arxiv.org/abs/2510.24795)]
-
-### General VLA Surveys and Evaluation Resources
-
 - [2026.04] Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines, arXiv [[Paper](https://arxiv.org/abs/2604.23001)]
 - [2026] Survey of Vision-Language-Action Models for Embodied Manipulation, Acta Automatica Sinica [[Paper](https://doi.org/10.16383/j.aas.c250689)]
 - [2025] Vision-Language-Action Models: From the Early Foundations to the State-of-the-Art, Acta Automatica Sinica [[Paper](https://doi.org/10.16383/j.aas.c250417)]
@@ -82,20 +76,11 @@ I currently focus on compression methods for Vision-Language-Action models, incl
 - [2025.09] KV-Efficient VLA: A Method to Speed up Vision Language Models with RNN-Gated Chunked KV Cache, arXiv [[Paper](https://arxiv.org/abs/2509.21354)]
 
 ## Action Generation Compression
-
-### Action Token Compression
-
 - [2026.06] NAC: Neural Action Codec for Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2606.21372)]
 - [2025.01] FAST: Efficient Action Tokenization for Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2501.09747)]
-
-### Iterative / Parallel Action Generation
-
 - [2026.06] ELASTIC: Efficiently Learning to Adaptively Scale Test-Time Compute for Generative Control Policies, arXiv [[Paper](https://arxiv.org/abs/2606.31132)]
 - [2026.06] TBD-VLA: Temporal Block Diffusion Vision Language Action Model, arXiv [[Paper](https://arxiv.org/abs/2606.07895)]
 - [2025.06] CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding, arXiv [[Paper](https://arxiv.org/abs/2506.13725)]
-
-### Reasoning and Action Reuse
-
 - [2026.07] ActionCache: Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement, arXiv [[Paper](https://arxiv.org/abs/2607.06370)]
 - [2025.06] Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse, arXiv [[Paper](https://arxiv.org/abs/2506.07639)]
 
