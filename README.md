@@ -12,7 +12,7 @@ I currently focus on compression methods for Vision-Language-Action models, incl
 > [!IMPORTANT]
 > **Last Update: 2026/08/07**
 
-![alt text](./framework.png)
+![alt text](./framework_v2.png)
 
 <a name="Surveys" />
 
