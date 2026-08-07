@@ -52,7 +52,6 @@ I currently focus on compression methods for Vision-Language-Action models, incl
 - [2026.02] Learning to Accelerate Vision-Language-Action Models through Adaptive Visual Token Caching, arXiv [[Paper](https://arxiv.org/abs/2602.00686)]
 - [2026.03] TTF-VLA: Temporal Token Fusion via Pixel-Attention Integration for Vision-Language-Action Models, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38910)] [[Code](https://github.com/PKU-XLab/TTF-VLA)]
 
-
 ## Backbone Compression
 
 ### Weight Compression
@@ -62,7 +61,7 @@ I currently focus on compression methods for Vision-Language-Action models, incl
 - [2025.10] Don't Run with Scissors: Pruning Breaks VLA Models but They Can Be Recovered, arXiv [[Paper](https://arxiv.org/abs/2510.08464)]
 - [2026.03] DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2603.07904)]
 
-### Layer Compression and Dynamic Inference
+### Layer Compression 
 
 - [2024.11] DeeR-VLA: Dynamic Inference of Multimodal Large Language Models for Efficient Robot Execution, NeurIPS [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/67b0e7c7c2a5780aeefe3b79caac106e-Abstract-Conference.html)] [[Code](https://github.com/yueyang130/DeeR-VLA)]
 - [2025.03] MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation, AAAI [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/38945)][[Code](https://sites.google.com/view/mole-vla)]
@@ -72,7 +71,7 @@ I currently focus on compression methods for Vision-Language-Action models, incl
 - [2026.06] BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving, arXiv [[Paper](https://arxiv.org/abs/2606.08684)][[Code](https://github.com/George-Ling3/BLUE)]
 
 
-### KV Cache Compression and Reuse
+### Cache Compression
 
 - [2025.09] KV-Efficient VLA: A Method to Speed up Vision Language Models with RNN-Gated Chunked KV Cache, arXiv [[Paper](https://arxiv.org/abs/2509.21354)]
 
@@ -90,35 +89,37 @@ I currently focus on compression methods for Vision-Language-Action models, incl
 
 ### Joint Compression
 
-- [2026.07] Reflex: Real-Time VLA Control through Streaming Inference, arXiv [[Paper](https://arxiv.org/abs/2607.14695)]
-- [2026.06] Mix-QVLA: Task-Evidence-Aware Mixed-Precision Quantization of Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2606.19565)]
-- [2026.05] Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling, arXiv [[Paper](https://arxiv.org/abs/2605.28803)]
-- [2026.04] DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2604.11572)]
-- [2026.02] QuantVLA: Scale-calibrated post-training quantization for vision-language-action models, CVPR 2026 [[Paper](https://arxiv.org/abs/2602.20309)] [[Project](https://quantvla.github.io)]
-- [2026.02] HBVLA: Pushing 1-Bit Post-Training Quantization for Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2602.13710)]
+- [2025.06] EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models, NeurIPS 2025 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/3a2ef31a1e45908901adc0ca853a8faf-Abstract-Conference.html)] [[Code](https://github.com/YantaiYang-05/EfficientVLA)]
+- [2025.09] SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2509.09090)][[Code](https://github.com/ecdine/SQAP-VLA)]
 - [2026.02] QVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization, ICLR 2026 [[Paper](https://arxiv.org/abs/2602.03782)] [[Code](https://github.com/AutoLab-SAI-SJTU/QVLA)]
-- [2025.09] SQAP-VLA: A Synergistic Quantization-Aware Pruning Framework for High-Performance Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2509.09090)]
-- [2025.06] EfficientVLA: Training-Free Acceleration and Compression for Vision-Language-Action Models, NeurIPS 2025 [[Paper](https://arxiv.org/abs/2506.10100)] [[Code](https://github.com/YantaiYang-05/EfficientVLA)]
+- [2026.02] HBVLA: Pushing 1-Bit Post-Training Quantization for Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2602.13710)]
+- [2026.02] QuantVLA: Scale-calibrated post-training quantization for vision-language-action models, CVPR 2026 [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_QuantVLA_Scale-Calibrated_Post-Training_Quantization_for_Vision-Language-Action_Models_CVPR_2026_paper.html)] [[Project](https://quantvla.github.io)]
+- [2026.04] DA-PTQ: Drift-Aware Post-Training Quantization for Efficient Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2604.11572)]
+- [2026.05] Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling, arXiv [[Paper](https://arxiv.org/abs/2605.28803)][[Code](https://github.com/UCMP13753/Omega-QVLA)]
+- [2026.06] Mix-QVLA: Task-Evidence-Aware Mixed-Precision Quantization of Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2606.19565)]
+- [2026.07] Reflex: Real-Time VLA Control through Streaming Inference, arXiv [[Paper](https://arxiv.org/abs/2607.14695)]
 
 ### Adaptive Scheduling
 
-- [2026.04] A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model, arXiv [[Paper](https://arxiv.org/abs/2604.05672)]
-- [2026.02] EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2602.00780)]
-- [2026.01] AC²-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation, arXiv [[Paper](https://arxiv.org/abs/2601.19634)]
-- [2025.08] Leveraging OS-Level Primitives for Robotic Action Management, arXiv [[Paper](https://arxiv.org/abs/2508.10259)]
-- [2025.06] SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration, arXiv [[Paper](https://arxiv.org/abs/2506.12723)]
 - [2025.05] Think Twice, Act Once: Token-Aware Compression and Action Reuse for Efficient Inference in Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2505.21200)]
+- [2025.06] SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration, arXiv [[Paper](https://arxiv.org/abs/2506.12723)]
+- [2025.08] Leveraging OS-Level Primitives for Robotic Action Management, arXiv [[Paper](https://arxiv.org/abs/2508.10259)]
+- [2026.01] AC²-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation, arXiv [[Paper](https://arxiv.org/abs/2601.19634)]
+- [2026.02] EcoVLA: Environment-Aware Adaptive Pruning with Interleaved Inference Orchestration for Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2602.00780)]
+- [2026.04] A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model, arXiv [[Paper](https://arxiv.org/abs/2604.05672)][[Code](https://github.com/ATeam-Research/A1)]
+
+
 
 ### Lightweight Architecture
 
+- [2025.06] SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics, arXiv [[Paper](https://arxiv.org/abs/2506.01844)][[Code](https://github.com/huggingface/lerobot)]
+- [2025.06] BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation, arXiv [[Paper](https://arxiv.org/abs/2506.07530)][[Code](https://huggingface.co/lxsy/bitvla-bf16)]
+- [2025.09] FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies, arXiv [[Paper](https://arxiv.org/abs/2509.04996)]
+- [2025.09] dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought, arXiv [[Paper](https://arxiv.org/abs/2509.25681)]
+- [2026.01] Shallow-π: Knowledge Distillation for Flow-based VLAs, arXiv [[Paper](https://arxiv.org/abs/2601.20262)]
+- [2026.06] ReactVLA: Fast and Lightweight Reactive Robot Manipulation via Improved Mean Flow Action Generation, arXiv [[Paper](https://arxiv.org/abs/2606.14255)]
+- [2026.06] SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks, ICML [[Paper](https://openreview.net/forum?id=W86R5sIsxE)]
 - [2026.07] FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling, arXiv [[Paper](https://arxiv.org/abs/2607.29596)]
 - [2026.07] FabriVLA: A Lightweight Vision-Language-Action Model for Precise Multi-Task Manipulation, arXiv [[Paper](https://arxiv.org/abs/2607.08575)]
 - [2026.07] Teaching Tiny VLA Models Where to Look and How to Move, arXiv [[Paper](https://arxiv.org/abs/2607.04171)]
-- [2026.06] SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks, arXiv [[Paper](https://arxiv.org/abs/2606.27807)]
-- [2026.06] ReactVLA: Fast and Lightweight Reactive Robot Manipulation via Improved Mean Flow Action Generation, arXiv [[Paper](https://arxiv.org/abs/2606.14255)]
-- [2026.01] Shallow-π: Knowledge Distillation for Flow-based VLAs, arXiv [[Paper](https://arxiv.org/abs/2601.20262)]
-- [2025.09] dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought, arXiv [[Paper](https://arxiv.org/abs/2509.25681)]
-- [2025.09] FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies, arXiv [[Paper](https://arxiv.org/abs/2509.04996)]
-- [2025.06] BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation, arXiv [[Paper](https://arxiv.org/abs/2506.07530)]
-- [2025.06] SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics, arXiv [[Paper](https://arxiv.org/abs/2506.01844)]
 
