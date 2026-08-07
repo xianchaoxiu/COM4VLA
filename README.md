@@ -13,7 +13,7 @@ I currently focus on leveraging large language models for operations research, i
 
 
 > [!IMPORTANT]
-> **Last Update: 2026/02/28**
+> **Last Update: 2026/08/07**
 
 ![alt text](./framework.png)
 
