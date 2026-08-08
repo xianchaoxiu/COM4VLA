@@ -1,6 +1,6 @@
 # Compression for Vision-Language-Action Models
 
-I currently focus on compression methods for Vision-Language-Action models, including
+We currently focus on compression methods for Vision-Language-Action models, including
 - [Surveys](#surveys)
 - [Visual Input Compression](#visual-input-compression)
 - [Backbone Compression](#backbone-compression)
