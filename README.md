@@ -25,6 +25,8 @@
 - [2025.09] 视觉--语言--动作模型综述：从前史到前沿, 自动化学报 [[Paper](https://doi.org/10.16383/j.aas.c250417)]
 - [2025.09] Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications, IEEE Access[[Paper](https://ieeexplore.ieee.org/abstract/document/11164279)]
 
+<a name="visual-input-compression" />
+
 ## 视觉输入压缩
 
 ### 视觉词元剪枝
