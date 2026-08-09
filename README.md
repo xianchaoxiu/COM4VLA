@@ -54,6 +54,8 @@
 - [2025.09] RetoVLA: Reusing Register Tokens for Spatial Reasoning in Vision-Language-Action Models, ICRA 2026 [[Paper](https://arxiv.org/abs/2509.21243)] [[Code](https://youtu.be/2CseBR-snZg)]
 - [2025.02] VLA-Cache: Efficient Vision-Language-Action Manipulation via Adaptive Token Caching, NeurIPS 2025 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f062da1973ac9ac61fc6d44dd7fa309f-Abstract-Conference.html)] [[Code](https://vla-cache.github.io)]
 
+<a name="backbone-compression" />
+
 ## 骨干网络压缩
 
 ### 权重压缩
@@ -77,6 +79,8 @@
 
 - [2025.09] KV-Efficient VLA: A Method to Speed up Vision Language Models with RNN-Gated Chunked KV Cache, arXiv [[Paper](https://arxiv.org/abs/2509.21354)]
 
+<a name="action-generation-compression" />
+
 ## 动作生成压缩
 
 - [2026.07] ActionCache: Training-Free Acceleration for Vision-Language-Action Models with Action Caching and Refinement, arXiv [[Paper](https://arxiv.org/abs/2607.06370)]
@@ -86,6 +90,8 @@
 - [2025.06] CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding, arXiv [[Paper](https://arxiv.org/abs/2506.13725)][[Code](https://irpn-eai.github.io/CEED-VLA/)]
 - [2025.06] Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse, arXiv [[Paper](https://arxiv.org/abs/2506.07639)]
 - [2025.01] FAST: Efficient Action Tokenization for Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2501.09747)]
+
+<a name="hybrid--system-level-compression" />
 
 ## 混合策略压缩
 
