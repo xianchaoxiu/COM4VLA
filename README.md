@@ -17,13 +17,13 @@ We currently focus on compression methods for Vision-Language-Action models, inc
 <a name="Surveys" />
 
 ## Surveys
-- [2026] A survey of vision-language-action (VLA) models for resource-constrained embodied intelligence, Acta Automatica Sinica
-- [2025.10] Efficient vision-language-action models for embodied manipulation: A systematic survey, arXiv [[Paper](https://arxiv.org/abs/2510.17111)]
-- [2025.10] A survey on efficient vision-language-action models, arXiv [[Paper](https://arxiv.org/abs/2510.24795)]
-- [2026.04] Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines, arXiv [[Paper](https://arxiv.org/abs/2604.23001)]
-- [2026] Survey of Vision-Language-Action Models for Embodied Manipulation, Acta Automatica Sinica [[Paper](https://doi.org/10.16383/j.aas.c250689)]
-- [2025] Vision-Language-Action Models: From the Early Foundations to the State-of-the-Art, Acta Automatica Sinica [[Paper](https://doi.org/10.16383/j.aas.c250417)]
-- [2025] Vision-language-action models for robotics: A review towards real-world applications, IEEE Access
+- [2026.06] 面向资源受限具身智能的视觉--语言--动作（VLA）模型综述, 自动化学报[[Paper](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c260051)]
+- [2026.04] Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines, TMLR [[Paper](https://openreview.net/forum?id=tAaWFpvnmm)]
+- [2025.11] 面向具身操作的视觉--语言--动作模型综述, 自动化学报 [[Paper](https://aas.net.cn/cn/article/doi/10.16383/j.aas.c250394)]
+- [2025.10] Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey, arXiv [[Paper](https://arxiv.org/abs/2510.17111)]
+- [2025.10] A Survey on Efficient Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2510.24795)]
+- [2025.09] 视觉--语言--动作模型综述：从前史到前沿, 自动化学报 [[Paper](https://doi.org/10.16383/j.aas.c250417)]
+- [2025.09] Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications, IEEE Access[[Paper](https://ieeexplore.ieee.org/abstract/document/11164279)]
 
 ## Visual Input Compression
 
