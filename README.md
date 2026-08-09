@@ -1,11 +1,11 @@
-# Compression for Vision-Language-Action Models
+# 视觉--语言--动作模型压缩
 
-We currently focus on compression methods for Vision-Language-Action models, including
-- [Surveys](#surveys)
-- [Visual Input Compression](#visual-input-compression)
-- [Backbone Compression](#backbone-compression)
-- [Action Generation Compression](#action-generation-compression)
-- [Hybrid / System-level Compression](#hybrid--system-level-compression)
+本项目主要关注视觉--语言--动作（Vision-Language-Action, VLA）模型的压缩方法, 包括:
+- [综述](#surveys)
+- [视觉输入压缩](#visual-input-compression)
+- [骨干网络压缩](#backbone-compression)
+- [动作生成压缩](#action-generation-compression)
+- [混合策略压缩](#hybrid--system-level-compression)
 
 
 
