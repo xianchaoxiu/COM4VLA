@@ -1,12 +1,11 @@
-# 视觉--语言--动作模型压缩
+# 视觉-语言-动作模型压缩
 
-本项目主要关注视觉--语言--动作（Vision-Language-Action, VLA）模型的压缩方法, 包括:
+本项目主要关注视觉-语言-动作（Vision-Language-Action, VLA）模型的压缩方法, 包括:
 - [综述](#surveys)
 - [视觉输入压缩](#visual-input-compression)
 - [骨干网络压缩](#backbone-compression)
 - [动作生成压缩](#action-generation-compression)
 - [混合策略压缩](#hybrid--system-level-compression)
-
 
 
 > [!IMPORTANT]
@@ -17,12 +16,12 @@
 <a name="Surveys" />
 
 ## 综述
-- [2026.06] 面向资源受限具身智能的视觉--语言--动作（VLA）模型综述, 自动化学报[[Paper](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c260051)]
+- [2026.06] 面向资源受限具身智能的视觉-语言-动作（VLA）模型综述, 自动化学报[[Paper](https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c260051)]
 - [2026.04] Vision-Language-Action in Robotics: A Survey of Datasets, Benchmarks, and Data Engines, TMLR [[Paper](https://openreview.net/forum?id=tAaWFpvnmm)]
-- [2025.11] 面向具身操作的视觉--语言--动作模型综述, 自动化学报 [[Paper](https://aas.net.cn/cn/article/doi/10.16383/j.aas.c250394)]
+- [2025.11] 面向具身操作的视觉-语言-动作模型综述, 自动化学报 [[Paper](https://aas.net.cn/cn/article/doi/10.16383/j.aas.c250394)]
 - [2025.10] Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey, arXiv [[Paper](https://arxiv.org/abs/2510.17111)]
 - [2025.10] A Survey on Efficient Vision-Language-Action Models, arXiv [[Paper](https://arxiv.org/abs/2510.24795)]
-- [2025.09] 视觉--语言--动作模型综述：从前史到前沿, 自动化学报 [[Paper](https://doi.org/10.16383/j.aas.c250417)]
+- [2025.09] 视觉-语言-动作模型综述：从前史到前沿, 自动化学报 [[Paper](https://doi.org/10.16383/j.aas.c250417)]
 - [2025.09] Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications, IEEE Access[[Paper](https://ieeexplore.ieee.org/abstract/document/11164279)]
 
 <a name="visual-input-compression" />
