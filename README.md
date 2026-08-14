@@ -8,8 +8,8 @@
 - [混合策略压缩](#hybrid--system-level-compression)
 
 
-> [!IMPORTANT]
-> **Last Update: 2026/08/07**
+> [!重要信息]
+> **更新时间: 2026年08月07日**
 
 ![alt text](./framework.png)
 
