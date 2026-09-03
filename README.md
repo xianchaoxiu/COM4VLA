@@ -129,3 +129,6 @@
 - [2025.06] SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics, arXiv [[Paper](https://arxiv.org/abs/2506.01844)][[Code](https://github.com/huggingface/lerobot)]
 - [2025.06] BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation, arXiv [[Paper](https://arxiv.org/abs/2506.07530)][[Code](https://huggingface.co/lxsy/bitvla-bf16)]
 
+
+### 致谢
+感谢徐力协助整理
